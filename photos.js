@@ -7,7 +7,7 @@
  */
 
 
-"use strict"; // interpret document contents in JavaScript strict mode
+"use strict"; // interpret document contents in JavaScript strict mode buzz
 
 /* global variables */
 var photoOrder = [1,2,3,4,5];
